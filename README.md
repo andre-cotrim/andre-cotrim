@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi👋 I'm André Cotrim
 
-<!--
-**andre-cotrim/andre-cotrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 I'm currently studying for a BSc in Informatics and Computing Engineering at Faculty of Engineering of the University of Porto (FEUP)
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=andre-cotrim&show_icons=true&locale=en" alt="andre-cotrim" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andre-cotrim&show_icons=true&locale=en&layout=compact" alt="andre-cotrim" />
+    </td>
+  </tr>
+</table>
+
+### Contacts
+
+
+### Languages
